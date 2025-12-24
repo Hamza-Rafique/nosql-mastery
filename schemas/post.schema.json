@@ -1,0 +1,13 @@
+{
+  "_id": "ObjectId",
+  "title": "string",
+  "content": "string",
+  "authorId": "ObjectId",
+  "comments": [
+    {
+      "text": "string",
+      "user": "string",
+      "date": "date"
+    }
+  ]
+}
